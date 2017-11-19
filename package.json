@@ -1,0 +1,11 @@
+{
+  "name": "checkertron-2000",
+  "version": "1.0.0",
+  "description": "a checkers game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Russ Ward",
+  "license": "ISC"
+}
