@@ -1,0 +1,29 @@
+.red {
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.black {
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.square {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  border: 2px solid;
+}
+
+.square .red {
+  background-color: rgba(150, 0, 0, 1);
+}
+
+.square .black {
+  background-color: rgba(100, 100, 100, 1);
+}
+
+.disk {
+  height: 71px;
+  width: 71px;
+  border: 2px solid;
+  border-radius: 50%;
+}
